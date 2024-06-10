@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace VismaResourceShortage.Models
+﻿namespace VismaResourceShortage.Models
 {
     public class Shortage
     {
