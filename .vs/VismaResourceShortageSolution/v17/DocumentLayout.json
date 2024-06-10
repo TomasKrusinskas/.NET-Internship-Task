@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D340242-74CD-4B6B-8025-1DB39676ECA7}|VismaResourceShortage.Tests\\VismaResourceShortage.Tests.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage.tests\\jsonservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D340242-74CD-4B6B-8025-1DB39676ECA7}|VismaResourceShortage.Tests\\VismaResourceShortage.Tests.csproj|solutionrelative:vismaresourceshortage.tests\\jsonservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|solutionrelative:vismaresourceshortage\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D340242-74CD-4B6B-8025-1DB39676ECA7}|VismaResourceShortage.Tests\\VismaResourceShortage.Tests.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D340242-74CD-4B6B-8025-1DB39676ECA7}|VismaResourceShortage.Tests\\VismaResourceShortage.Tests.csproj|solutionrelative:vismaresourceshortage.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D340242-74CD-4B6B-8025-1DB39676ECA7}|VismaResourceShortage.Tests\\VismaResourceShortage.Tests.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage.tests\\jsonservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D340242-74CD-4B6B-8025-1DB39676ECA7}|VismaResourceShortage.Tests\\VismaResourceShortage.Tests.csproj|solutionrelative:vismaresourceshortage.tests\\jsonservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|solutionrelative:vismaresourceshortage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|solutionrelative:vismaresourceshortage\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage\\models\\shortage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|solutionrelative:vismaresourceshortage\\models\\shortage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|solutionrelative:vismaresourceshortage\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage\\vismaresourceshortage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|solutionrelative:vismaresourceshortage\\vismaresourceshortage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|c:\\users\\tomas\\desktop\\ktu\\.net-internship-task\\vismaresourceshortage\\models\\shortage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95ADF8D-C700-46FD-8D62-248171D43AC5}|VismaResourceShortage\\VismaResourceShortage.csproj|solutionrelative:vismaresourceshortage\\models\\shortage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,50 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProgramTests.cs",
-              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage.Tests\\ProgramTests.cs",
-              "RelativeDocumentMoniker": "VismaResourceShortage.Tests\\ProgramTests.cs",
-              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage.Tests\\ProgramTests.cs",
-              "RelativeToolTip": "VismaResourceShortage.Tests\\ProgramTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswAwAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "VismaResourceShortage\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "VismaResourceShortage\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T16:32:44.377Z",
+              "WhenOpened": "2024-06-10T16:49:58.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "JsonServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage.Tests\\JsonServiceTests.cs",
               "RelativeDocumentMoniker": "VismaResourceShortage.Tests\\JsonServiceTests.cs",
               "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage.Tests\\JsonServiceTests.cs",
               "RelativeToolTip": "VismaResourceShortage.Tests\\JsonServiceTests.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAcwBIAAAAqAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T13:28:35.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "JsonService.cs",
               "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage\\Services\\JsonService.cs",
               "RelativeDocumentMoniker": "VismaResourceShortage\\Services\\JsonService.cs",
               "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage\\Services\\JsonService.cs",
               "RelativeToolTip": "VismaResourceShortage\\Services\\JsonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T13:25:13.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Shortage.cs",
               "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage\\Models\\Shortage.cs",
               "RelativeDocumentMoniker": "VismaResourceShortage\\Models\\Shortage.cs",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "VismaResourceShortage.csproj",
               "DocumentMoniker": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage\\VismaResourceShortage.csproj",
               "RelativeDocumentMoniker": "VismaResourceShortage\\VismaResourceShortage.csproj",
               "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage\\VismaResourceShortage.csproj",
               "RelativeToolTip": "VismaResourceShortage\\VismaResourceShortage.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-06-10T13:12:42.665Z",
               "EditorCaption": ""
@@ -109,7 +109,7 @@
               "RelativeDocumentMoniker": "VismaResourceShortage\\Program.cs",
               "ToolTip": "C:\\Users\\Tomas\\Desktop\\KTU\\.NET-Internship-Task\\VismaResourceShortage\\Program.cs",
               "RelativeToolTip": "VismaResourceShortage\\Program.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAwwL8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T13:11:23.556Z",
               "EditorCaption": ""

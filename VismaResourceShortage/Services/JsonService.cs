@@ -1,11 +1,18 @@
 ﻿using Newtonsoft.Json;
+using System.Collections.Generic;
+using System.IO;
 using VismaResourceShortage.Models;
 
 namespace VismaResourceShortage.Services
 {
     public class JsonService
     {
-        private readonly string filePath = "shortages.json";
+        private readonly string filePath;
+
+        public JsonService(string filePath = "shortages.json")
+        {
+            this.filePath = filePath;
+        }
 
         public List<Shortage> LoadShortages()
         {

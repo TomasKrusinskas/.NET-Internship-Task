@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VismaResourceShortage.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5b67be3ca24f6a2bf6c750123f71592f98c946")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef051620426510d3aaf620a7e52cce7318db16ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("VismaResourceShortage.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VismaResourceShortage.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,7 +16,7 @@ namespace VismaResourceShortage.Tests
         [SetUp]
         public void Setup()
         {
-            jsonService = new JsonService();
+            jsonService = new JsonService(testFilePath);
         }
 
         [TearDown]
